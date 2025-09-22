@@ -1,2 +1,2 @@
 # estaciones-astronomicas-ics
-estaciones del año para América del norte, central y sur
+Genera ICS con equinoccios/solsticios y publica vía GitHub Pages

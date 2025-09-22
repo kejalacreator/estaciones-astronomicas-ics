@@ -1,0 +1,7 @@
+estaciones-astronomicas-ics/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── generate_ics.py
+├── requirements.txt
+└── README.md

@@ -5,5 +5,5 @@ La generación es mensual (GitHub Actions).
 
 URL pública esperada (cuando actives GitHub Pages):
 ```
-https://<tu-usuario>.github.io/estaciones-astronomicas-ics/estaciones_america_preciso.ics
+https://kejalacreator.github.io/estaciones-astronomicas-ics/estaciones_america_preciso.ics
 ```
